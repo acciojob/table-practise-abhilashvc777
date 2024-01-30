@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body>div{
+	width: 169.578px;
+}
+h1 {
+	font-size: 1rem;
+	text-align: center;
+	margin:0px;
+}
+table {
+	background-color: yellow;
+	
+}
+.b {
+	border: 1px solid black;
+}
+.a>*{
+	border: 1px solid black;
+}
